@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-👨‍💻 **LeetCode Profile:**  
+ **LeetCode Profile:**  
 [dasrakesh](https://leetcode.com/u/dasrakesh/)
 
-💻 Java | Data Structures & Algorithms
+Java | Data Structures & Algorithms
 
 Repository containing my accepted LeetCode solutions.
 
