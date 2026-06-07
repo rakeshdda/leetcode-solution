@@ -1,5 +1,11 @@
-# leetcode-solution
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+👨‍💻 **LeetCode Profile:**  
+[dasrakesh](https://leetcode.com/u/dasrakesh/)
+
+💻 Java | Data Structures & Algorithms
+
+Repository containing my accepted LeetCode solutions.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
