@@ -23,6 +23,7 @@ Repository containing my accepted LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Recursion
@@ -32,6 +33,7 @@ Repository containing my accepted LeetCode solutions.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
@@ -41,10 +43,12 @@ Repository containing my accepted LeetCode solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
