@@ -42,6 +42,7 @@ Repository containing my accepted LeetCode solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/rakeshdda/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Repository containing my accepted LeetCode solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/rakeshdda/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rakeshdda/leetcode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
