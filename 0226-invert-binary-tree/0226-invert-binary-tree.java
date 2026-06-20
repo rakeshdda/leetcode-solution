@@ -15,20 +15,22 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-       return Do(root);
         
-      }
-      public TreeNode Do(TreeNode root){
-      	if(root== null){
-      		return null;
-      	}
-      	TreeNode temp = root.left;
-      	root.left = root.right;
-      	root.right = temp;
-      	
-      	Do(root.left);
-       	Do(root.right);
-       	
-       	return root;
-      }
+        return Do(root);
+    }
+
+    public TreeNode Do(TreeNode root) {
+        if (root == null) {
+            return null;
+        }
+
+        Do(root.left);
+        Do(root.right);
+        
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+
+        return root;
+    }
 }
