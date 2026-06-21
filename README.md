@@ -27,6 +27,7 @@ Repository containing my accepted LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0143-reorder-list) |
@@ -126,9 +127,14 @@ Repository containing my accepted LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
