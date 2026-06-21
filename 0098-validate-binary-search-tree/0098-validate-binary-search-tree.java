@@ -16,31 +16,46 @@
 class Solution {
     public boolean isValidBST(TreeNode root) {
         
-       List<Integer> list = new ArrayList<>();
+    //    List<Integer> list = new ArrayList<>();
        
-       helper(root, list);
+    //    helper(root, list);
        
-       boolean bst= true;
+    //    boolean bst= true;
        
-       int prev =list.get(0);
-       for(int i=1; i< list.size(); i++){
-       	if(list.get(i) <= prev){
-       		return false;
-       	}
-       	prev = list.get(i);
-       }
-       return true;
+    //    int prev =list.get(0);
+    //    for(int i=1; i< list.size(); i++){
+    //    	if(list.get(i) <= prev){
+    //    		return false;
+    //    	}
+    //    	prev = list.get(i);
+    //    }
+    //    return true;
+    // }
+    // public void helper(TreeNode node, List<Integer> list){
+    // 	//inorder
+    // 	if(node == null){
+    // 		return;
+    // 	}
+    	
+    // 	helper(node.left, list);
+    // 	list.add(node.val);
+    // 	helper(node.right, list);
+
+    return check(root, null, null);
     }
-    public void helper(TreeNode node, List<Integer> list){
-    	
-    	if(node == null){
-    		return;
-    	}
-    	
-    	helper(node.left, list);
-    	list.add(node.val);
-    	helper(node.right, list);
-    	
+     public boolean check(TreeNode root, TreeNode min, TreeNode  max){
+     	if(root == null){
+     		return true;
+     	}
+     	
+     	if(min != null && root.val <=  min.val){
+     		return false;
+     	}
+     	if(max != null && root.val >= max.val){
+     		return false;
+     	}
+     	
+     	return check(root.left, min, root) && check(root.right, root, max);
     }
    }
 
