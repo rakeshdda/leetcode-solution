@@ -16,7 +16,7 @@
 class Solution {
     public TreeNode increasingBST(TreeNode root) {
          Queue<TreeNode> queue = new LinkedList<>();
-        preOrder(root, queue);
+        inOrder(root, queue);
         TreeNode newroot = queue.peek();
         while (!queue.isEmpty()) {
             TreeNode node = queue.poll();
@@ -26,13 +26,13 @@ class Solution {
         return newroot;
     }
 
-    public void preOrder(TreeNode node, Queue<TreeNode> queue) {
+    public void inOrder(TreeNode node, Queue<TreeNode> queue) {
         if (node == null) {
             return;
         }
 
-        preOrder(node.left, queue);
+        inOrder(node.left, queue);
         queue.offer(node);
-        preOrder(node.right, queue);
+        inOrder(node.right, queue);
     }
 }
