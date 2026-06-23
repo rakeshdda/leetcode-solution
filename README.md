@@ -63,6 +63,7 @@ Repository containing my accepted LeetCode solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/rakeshdda/leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Repository containing my accepted LeetCode solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/rakeshdda/leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
