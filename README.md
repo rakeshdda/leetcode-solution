@@ -23,6 +23,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0143-reorder-list) |
+| [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -159,6 +160,7 @@ Repository containing my accepted LeetCode solutions.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
@@ -173,6 +175,7 @@ Repository containing my accepted LeetCode solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -188,11 +191,13 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -222,4 +227,8 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
