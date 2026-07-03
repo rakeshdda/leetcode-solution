@@ -19,12 +19,12 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        int count = 0;
+       
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
 
-            if (count < k) {
+            if (minheap.size() < k) {
                 minheap.offer(new Pair(entry.getValue(), entry.getKey()));
-                count++;
+                
             } else {
                 if (minheap.peek().freq < entry.getValue()) {
                     minheap.poll();
