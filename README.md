@@ -178,6 +178,7 @@ Repository containing my accepted LeetCode solutions.
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +197,7 @@ Repository containing my accepted LeetCode solutions.
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -242,4 +244,5 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
