@@ -258,5 +258,6 @@ Repository containing my accepted LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/rakeshdda/leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakeshdda/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
