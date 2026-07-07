@@ -1,3 +1,11 @@
+/*the question is asking for k points , which are at minimum distance from the origin(0,0)
+
+so what do we need to store in the heap; 
+first we need a max heap, bcz we nees the k minimum distance points, so maxheap;
+second what i store in heap, definately distance ,which will dicide which point will be at the top or bottom of heap; else what? the index of that point, let say if i need to store (3,3)'s then  store(undertoot of (9), index of 3,3 int the given array;
+
+but taking square root for distance will make the code more complex ,so just take square, for (3,3) , take only 9 , not square root of (9).  thats it , */
+
 class Solution {
     class Pair{
         int distance;
