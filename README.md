@@ -188,6 +188,7 @@ Repository containing my accepted LeetCode solutions.
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rakeshdda/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/rakeshdda/leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakeshdda/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
@@ -291,4 +293,16 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
