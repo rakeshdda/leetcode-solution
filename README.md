@@ -91,6 +91,7 @@ Repository containing my accepted LeetCode solutions.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rakeshdda/leetcode-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/rakeshdda/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
@@ -151,6 +152,7 @@ Repository containing my accepted LeetCode solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rakeshdda/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
@@ -305,4 +307,12 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
