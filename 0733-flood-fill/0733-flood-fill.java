@@ -17,41 +17,55 @@ class Solution {
     	int rows = image.length;
     	int cols = image[0].length;
     	
-    	//for up
-    	int newRow = row - 1;
-        int newCol = col;
+       
+    	
+    	int[] dr = {-1, 0, 1, 0};
+    	int[] dc ={ 0, 1, 0, -1};
+    	
+    	for(int i =0; i<4; i++){
+    		int newRow = row + dr[i];
+    		int newCol = col + dc[i];
+    		
+    		
+    		if(newRow>= 0 && newRow< rows && newCol >=0 && newCol < cols && image[newRow][newCol] != color && image[newRow][newCol] == originalColor){
+    			dfs(newRow, newCol, color, image, originalColor);
+    		}
+    	}
+    // 	//for up
+    // 	int newRow = row - 1;
+    //     int newCol = col;
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
-                && image[newRow][newCol] == originalColor) {
-            dfs(newRow, newCol, color, image, originalColor);
-        }
+    //     if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
+    //             && image[newRow][newCol] == originalColor) {
+    //         dfs(newRow, newCol, color, image, originalColor);
+    //     }
         
         
-        //for right
-    	newRow = row ;
-        newCol = col + 1;
+    //     //for right
+    // 	newRow = row ;
+    //     newCol = col + 1;
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
-                && image[newRow][newCol] == originalColor) {
-            dfs(newRow, newCol, color, image, originalColor);
-        }
+    //     if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
+    //             && image[newRow][newCol] == originalColor) {
+    //         dfs(newRow, newCol, color, image, originalColor);
+    //     }
         
-        //for down
-    	newRow = row +1 ;
-        newCol = col;
+    //     //for down
+    // 	newRow = row +1 ;
+    //     newCol = col;
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
-                && image[newRow][newCol] == originalColor) {
-            dfs(newRow, newCol, color, image, originalColor);
-        }
+    //     if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
+    //             && image[newRow][newCol] == originalColor) {
+    //         dfs(newRow, newCol, color, image, originalColor);
+    //     }
 		
-		//for left
-    	newRow = row ;
-        newCol = col -1;
+	// 	//for left
+    // 	newRow = row ;
+    //     newCol = col -1;
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
-                && image[newRow][newCol] == originalColor) {
-            dfs(newRow, newCol, color, image, originalColor);
-        }
-    }
+    //     if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && image[newRow][newCol] != color
+    //             && image[newRow][newCol] == originalColor) {
+    //         dfs(newRow, newCol, color, image, originalColor);
+    //     }
+     }
 }
