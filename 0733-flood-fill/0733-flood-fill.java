@@ -2,9 +2,9 @@ class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
        	int originalColor = image[sr][sc];
     	
-    	if (originalColor == color){
-         return image;
-         }
+    	// if (originalColor == color){
+        //  return image;
+        //  }
          
     	dfs(sr,sc, color, image, originalColor);
     	
@@ -53,7 +53,5 @@ class Solution {
                 && image[newRow][newCol] == originalColor) {
             dfs(newRow, newCol, color, image, originalColor);
         }
-
-
     }
 }
