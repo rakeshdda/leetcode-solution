@@ -25,41 +25,53 @@ class Solution {
         int rows = grid.length;
         int cols = grid[0].length;
 
-        //for up
-        int newRow = row - 1;
-        int newCol = col;
+        int[] dr = {-1, 0, 1, 0};
+        int[] dc = {0, 1, 0, -1};
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
+        for(int i=0; i< 4; i++){
+            int newRow= row + dr[i];
+            int newCol = col+ dc[i];
+
+            if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
                 && grid[newRow][newCol] == '1') {
-            dfs(newRow, newCol, grid, visited);
+             dfs(newRow, newCol, grid, visited);
+         }
         }
+        // //for up
+        // int newRow = row - 1;
+        // int newCol = col;
 
-        //for right
-        newRow = row;
-        newCol = col + 1;
+        // if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
+        //         && grid[newRow][newCol] == '1') {
+        //     dfs(newRow, newCol, grid, visited);
+        // }
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
-                && grid[newRow][newCol] == '1') {
-            dfs(newRow, newCol, grid, visited);
-        }
+        // //for right
+        // newRow = row;
+        // newCol = col + 1;
 
-        //for down
-        newRow = row + 1;
-        newCol = col;
+        // if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
+        //         && grid[newRow][newCol] == '1') {
+        //     dfs(newRow, newCol, grid, visited);
+        // }
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
-                && grid[newRow][newCol] == '1') {
-            dfs(newRow, newCol, grid, visited);
-        }
+        // //for down
+        // newRow = row + 1;
+        // newCol = col;
 
-        //for left
+        // if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
+        //         && grid[newRow][newCol] == '1') {
+        //     dfs(newRow, newCol, grid, visited);
+        // }
 
-        newRow = row;
-        newCol = col - 1;
+        // //for left
 
-        if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
-                && grid[newRow][newCol] == '1') {
-            dfs(newRow, newCol, grid, visited);
-        }
+        // newRow = row;
+        // newCol = col - 1;
+
+        // if (newRow >= 0 && newRow < rows && newCol >= 0 && newCol < cols && !visited[newRow][newCol]
+        //         && grid[newRow][newCol] == '1') {
+        //     dfs(newRow, newCol, grid, visited);
+        // }
     }
 }
