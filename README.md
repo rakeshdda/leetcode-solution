@@ -77,6 +77,7 @@ Repository containing my accepted LeetCode solutions.
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rakeshdda/leetcode-solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/rakeshdda/leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -96,6 +97,7 @@ Repository containing my accepted LeetCode solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Repository containing my accepted LeetCode solutions.
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rakeshdda/leetcode-solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2236-root-equals-sum-of-children](https://github.com/rakeshdda/leetcode-solution/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -161,6 +164,7 @@ Repository containing my accepted LeetCode solutions.
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rakeshdda/leetcode-solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
