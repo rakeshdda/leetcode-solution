@@ -212,6 +212,7 @@ Repository containing my accepted LeetCode solutions.
 | [1046-last-stone-weight](https://github.com/rakeshdda/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3731-find-missing-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Repository containing my accepted LeetCode solutions.
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Repository containing my accepted LeetCode solutions.
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
