@@ -27,7 +27,7 @@ class Solution {
             //window is not valid
             while((j-i +1) - maxfrequency >  k ){
                 
-            map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) - 1);
+            map.put(s.charAt(i), map.get(s.charAt(i)) - 1);
 
                     
                     i++;   
