@@ -215,6 +215,7 @@ Repository containing my accepted LeetCode solutions.
 | [1046-last-stone-weight](https://github.com/rakeshdda/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdda/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -303,6 +304,7 @@ Repository containing my accepted LeetCode solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshdda/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdda/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Repository containing my accepted LeetCode solutions.
 | [0451-sort-characters-by-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdda/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
