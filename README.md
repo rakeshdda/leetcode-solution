@@ -211,6 +211,7 @@ Repository containing my accepted LeetCode solutions.
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/rakeshdda/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -304,6 +305,7 @@ Repository containing my accepted LeetCode solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshdda/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdda/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -314,6 +316,7 @@ Repository containing my accepted LeetCode solutions.
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshdda/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdda/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -377,4 +380,5 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
