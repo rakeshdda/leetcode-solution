@@ -193,6 +193,7 @@ Repository containing my accepted LeetCode solutions.
 | [0703-kth-largest-element-in-a-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Repository containing my accepted LeetCode solutions.
 | [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rakeshdda/leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/rakeshdda/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -312,6 +314,7 @@ Repository containing my accepted LeetCode solutions.
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rakeshdda/leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdda/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -395,5 +398,6 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
