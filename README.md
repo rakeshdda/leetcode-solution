@@ -52,6 +52,7 @@ Repository containing my accepted LeetCode solutions.
 | [0101-symmetric-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rakeshdda/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0110-balanced-binary-tree) |
@@ -112,6 +113,7 @@ Repository containing my accepted LeetCode solutions.
 | [0101-symmetric-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rakeshdda/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0110-balanced-binary-tree) |
@@ -202,6 +204,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -228,6 +231,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rakeshdda/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -325,6 +329,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakeshdda/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rakeshdda/leetcode-solution/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshdda/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
