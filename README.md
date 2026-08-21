@@ -37,6 +37,7 @@ Repository containing my accepted LeetCode solutions.
 | [0143-reorder-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rakeshdda/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -206,6 +207,7 @@ Repository containing my accepted LeetCode solutions.
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rakeshdda/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -345,6 +347,7 @@ Repository containing my accepted LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rakeshdda/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0728-self-dividing-numbers](https://github.com/rakeshdda/leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
