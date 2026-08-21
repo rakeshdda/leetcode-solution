@@ -38,6 +38,7 @@ Repository containing my accepted LeetCode solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rakeshdda/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -243,6 +244,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -297,6 +299,7 @@ Repository containing my accepted LeetCode solutions.
 | [0076-minimum-window-substring](https://github.com/rakeshdda/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/rakeshdda/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshdda/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rakeshdda/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -410,4 +413,8 @@ Repository containing my accepted LeetCode solutions.
 | [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
