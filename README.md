@@ -357,6 +357,7 @@ Repository containing my accepted LeetCode solutions.
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rakeshdda/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rakeshdda/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
