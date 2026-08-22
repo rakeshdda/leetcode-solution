@@ -40,6 +40,7 @@ Repository containing my accepted LeetCode solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rakeshdda/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/rakeshdda/leetcode-solution/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -245,6 +246,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/rakeshdda/leetcode-solution/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -366,11 +368,13 @@ Repository containing my accepted LeetCode solutions.
 | [0295-find-median-from-data-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/rakeshdda/leetcode-solution/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/rakeshdda/leetcode-solution/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
