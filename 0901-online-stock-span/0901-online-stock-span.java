@@ -11,9 +11,9 @@ class StockSpanner {
 
     Stack<Pair> stack = new Stack<>();
 
-    public StockSpanner() {
+    // public StockSpanner() {
         
-    }
+    // }
     
     public int next(int price) {
         int span =1;
