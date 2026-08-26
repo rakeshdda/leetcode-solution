@@ -304,6 +304,7 @@ Repository containing my accepted LeetCode solutions.
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshdda/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rakeshdda/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rakeshdda/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
@@ -329,6 +330,7 @@ Repository containing my accepted LeetCode solutions.
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rakeshdda/leetcode-solution/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rakeshdda/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rakeshdda/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
