@@ -31,6 +31,7 @@ Repository containing my accepted LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -298,6 +299,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakeshdda/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rakeshdda/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/rakeshdda/leetcode-solution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -408,6 +410,7 @@ Repository containing my accepted LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 ## DP on Trees
 |  |
@@ -424,4 +427,8 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
