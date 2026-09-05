@@ -14,6 +14,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/rakeshdda/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rakeshdda/leetcode-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rakeshdda/leetcode-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -24,6 +25,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/rakeshdda/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/rakeshdda/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
