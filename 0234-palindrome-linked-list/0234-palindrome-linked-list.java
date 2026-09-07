@@ -22,7 +22,7 @@ class Solution {
             head = head.next;
             headSecond = headSecond.next;
         }
-        reverseList(rereverseHead);
+        // reverseList(rereverseHead);
 
         if (head == null || headSecond == null) {
             return true;
