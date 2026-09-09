@@ -117,6 +117,7 @@ Repository containing my accepted LeetCode solutions.
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rakeshdda/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -194,6 +195,7 @@ Repository containing my accepted LeetCode solutions.
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/rakeshdda/leetcode-solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rakeshdda/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -239,6 +241,7 @@ Repository containing my accepted LeetCode solutions.
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rakeshdda/leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/rakeshdda/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rakeshdda/leetcode-solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -417,6 +420,7 @@ Repository containing my accepted LeetCode solutions.
 | [0130-surrounded-regions](https://github.com/rakeshdda/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rakeshdda/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -430,6 +434,7 @@ Repository containing my accepted LeetCode solutions.
 | [0130-surrounded-regions](https://github.com/rakeshdda/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Dynamic Programming
 |  |
