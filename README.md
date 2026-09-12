@@ -118,6 +118,7 @@ Repository containing my accepted LeetCode solutions.
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/rakeshdda/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rakeshdda/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -242,6 +243,7 @@ Repository containing my accepted LeetCode solutions.
 | [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rakeshdda/leetcode-solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/rakeshdda/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/rakeshdda/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/rakeshdda/leetcode-solution/tree/master/1046-last-stone-weight) |
@@ -437,6 +439,7 @@ Repository containing my accepted LeetCode solutions.
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/rakeshdda/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Dynamic Programming
