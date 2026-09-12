@@ -112,6 +112,7 @@ Repository containing my accepted LeetCode solutions.
 | [0226-invert-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rakeshdda/leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
@@ -233,6 +234,7 @@ Repository containing my accepted LeetCode solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/rakeshdda/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
@@ -433,6 +435,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0130-surrounded-regions](https://github.com/rakeshdda/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -441,6 +444,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 ## DP on Trees
 |  |
 | ------- |
