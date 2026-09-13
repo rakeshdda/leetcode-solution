@@ -115,6 +115,7 @@ Repository containing my accepted LeetCode solutions.
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
@@ -192,6 +193,7 @@ Repository containing my accepted LeetCode solutions.
 | [0543-diameter-of-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
@@ -237,6 +239,7 @@ Repository containing my accepted LeetCode solutions.
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
@@ -424,6 +427,7 @@ Repository containing my accepted LeetCode solutions.
 | [0130-surrounded-regions](https://github.com/rakeshdda/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/rakeshdda/leetcode-solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rakeshdda/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -438,6 +442,7 @@ Repository containing my accepted LeetCode solutions.
 | [0130-surrounded-regions](https://github.com/rakeshdda/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rakeshdda/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rakeshdda/leetcode-solution/tree/master/1020-number-of-enclaves) |
