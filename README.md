@@ -47,6 +47,7 @@ Repository containing my accepted LeetCode solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rakeshdda/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/rakeshdda/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/rakeshdda/leetcode-solution/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -241,6 +242,7 @@ Repository containing my accepted LeetCode solutions.
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/rakeshdda/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/rakeshdda/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -411,6 +413,7 @@ Repository containing my accepted LeetCode solutions.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/rakeshdda/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rakeshdda/leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
