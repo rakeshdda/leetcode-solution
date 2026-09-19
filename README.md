@@ -120,6 +120,7 @@ Repository containing my accepted LeetCode solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/rakeshdda/leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rakeshdda/leetcode-solution/tree/master/0994-rotting-oranges) |
@@ -200,6 +201,7 @@ Repository containing my accepted LeetCode solutions.
 | [0637-average-of-levels-in-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/rakeshdda/leetcode-solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rakeshdda/leetcode-solution/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/rakeshdda/leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/rakeshdda/leetcode-solution/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0965-univalued-binary-tree) |
@@ -444,6 +446,7 @@ Repository containing my accepted LeetCode solutions.
 | [0207-course-schedule](https://github.com/rakeshdda/leetcode-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rakeshdda/leetcode-solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/rakeshdda/leetcode-solution/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/rakeshdda/leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/rakeshdda/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -486,8 +489,17 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0207-course-schedule](https://github.com/rakeshdda/leetcode-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rakeshdda/leetcode-solution/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/rakeshdda/leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rakeshdda/leetcode-solution/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/rakeshdda/leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/rakeshdda/leetcode-solution/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
