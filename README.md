@@ -473,6 +473,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
