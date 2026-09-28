@@ -50,6 +50,7 @@ Repository containing my accepted LeetCode solutions.
 | [0735-asteroid-collision](https://github.com/rakeshdda/leetcode-solution/tree/master/0735-asteroid-collision) |
 | [0897-increasing-order-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/rakeshdda/leetcode-solution/tree/master/0901-online-stock-span) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -344,6 +345,7 @@ Repository containing my accepted LeetCode solutions.
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rakeshdda/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/rakeshdda/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rakeshdda/leetcode-solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rakeshdda/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
@@ -489,6 +491,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
 |  |
 | ------- |
