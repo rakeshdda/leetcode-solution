@@ -247,6 +247,7 @@ Repository containing my accepted LeetCode solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/rakeshdda/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/rakeshdda/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rakeshdda/leetcode-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/rakeshdda/leetcode-solution/tree/master/0658-find-k-closest-elements) |
@@ -470,6 +471,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
 ## DP on Trees
 |  |
@@ -510,4 +512,12 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/rakeshdda/leetcode-solution/tree/master/0802-find-eventual-safe-states) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
