@@ -520,4 +520,12 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
