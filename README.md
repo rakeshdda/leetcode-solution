@@ -37,6 +37,7 @@ Repository containing my accepted LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
@@ -342,6 +343,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rakeshdda/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rakeshdda/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/rakeshdda/leetcode-solution/tree/master/0257-binary-tree-paths) |
@@ -496,6 +498,7 @@ Repository containing my accepted LeetCode solutions.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Topological Sort
