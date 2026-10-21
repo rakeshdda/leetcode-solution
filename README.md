@@ -27,6 +27,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0234-palindrome-linked-list) |
@@ -39,6 +40,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -242,6 +244,7 @@ Repository containing my accepted LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -291,6 +294,7 @@ Repository containing my accepted LeetCode solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/rakeshdda/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -479,6 +483,7 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
