@@ -1,84 +1,86 @@
 class Solution {
 
     public int largestRectangleArea(int[] heights) {
+        int n= heights.length;
 
-        ArrayList<Integer> nsr = findNSR(heights);
-        ArrayList<Integer> nsl = findNSL(heights);
+        int [] nsl = nearestSmallerLeft(heights);
 
-        int[] width = new int[heights.length];
+        int [] nsr = nearestSmallerRight(heights);
 
-        for(int i=0; i< heights.length; i++){
-            width[i] = nsr.get(i) - nsl.get(i) -1;
+        int [] width = new int[n];
+
+        for(int i =0; i< n; i++){
+            width[i] = nsr[i] -nsl[i] -1;
         }
 
-        //for area
-        for(int i=0; i< heights.length; i++){
-            width[i] = heights[i] * width[i];
-        }
+        int max =Integer.MIN_VALUE;
 
-        int max=  Integer.MIN_VALUE;
-        for(int i=0; i< width.length; i++){
-            if(width[i] > max){
-                max= width[i];
-            }
+        for(int i=0; i< n; i++){
+            max =Math.max(max, width[i]* heights[i]);
         }
         return max;
     }
-
-    
-    class Pair {
-        int key;
+    class Pair{
+        int index;
         int val;
-
-        Pair(int key, int val) {
-            this.key = key;
-            this.val = val;
-        }
+    Pair(int index, int val){
+        this.index = index; 
+        this.val = val;
     }
+    }
+    public int[] nearestSmallerLeft(int [] heights){
+        Stack<Pair> stack = new Stack();
+        
+        ArrayList<Integer> list = new ArrayList<>();
 
-    //for find nsr
-    public ArrayList<Integer> findNSR(int[] arr) {
-
-        ArrayList<Integer> list1 = new ArrayList<>();
-        Stack<Pair> stack = new Stack<>();
-
-        for (int i = arr.length - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && stack.peek().val >= arr[i]) {
+        for(int i=0; i< heights.length; i++){
+            while(!stack.isEmpty() && stack.peek().val >= heights[i]){
                 stack.pop();
             }
 
-            if (stack.isEmpty()) {
-                list1.add(arr.length);
-            } else if (!stack.isEmpty() && stack.peek().val < arr[i]) {
-                list1.add(stack.peek().key);
+            if(stack.isEmpty()){
+                list.add(-1);
+            }else{
+                list.add(stack.peek().index);
             }
 
-            stack.push(new Pair(i, arr[i]));
+            stack.push(new Pair(i,heights[i]));
         }
-        Collections.reverse(list1);
-        return list1;
+        int[] ans  = new int[heights.length];
+
+        for(int i=0; i< heights.length; i++){
+            ans[i] = list.get(i);
+        }
+        return ans;
     }
 
 
-    //for finding nsl
-    public ArrayList<Integer> findNSL(int[] arr) {
-        ArrayList<Integer> list2 = new ArrayList<>();
-        Stack<Pair> stack = new Stack<>();
+    public int [] nearestSmallerRight(int [] heights){
+        Stack<Pair> stack = new Stack();
 
-        for (int i = 0; i< arr.length; i++) {
-            while (!stack.isEmpty() && stack.peek().val >= arr[i]) {
+        ArrayList<Integer> list= new ArrayList<>();
+
+        for(int i=heights.length-1; i>=0; i--){
+            while(!stack.isEmpty() && stack.peek().val >= heights[i] ){
                 stack.pop();
             }
 
-            if (stack.isEmpty()) {
-                list2.add(-1);
-            } else if (!stack.isEmpty() && stack.peek().val < arr[i]) {
-                list2.add(stack.peek().key);
+            if(stack.isEmpty()){
+                list.add(heights.length);
+            }else{
+                list.add(stack.peek().index);
             }
 
-            stack.push(new Pair(i, arr[i]));
-        } 
-        return list2;
-    }
+            stack.push(new Pair(i,heights[i]));
+        }
 
+        Collections.reverse(list);
+
+        int[] ans = new int[heights.length];
+
+        for(int i=0; i< heights.length; i++){
+            ans[i] = list.get(i);
+        }
+        return ans;
+    }
 }
