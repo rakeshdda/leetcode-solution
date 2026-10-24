@@ -42,6 +42,7 @@ Repository containing my accepted LeetCode solutions.
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rakeshdda/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/rakeshdda/leetcode-solution/tree/master/0143-reorder-list) |
@@ -246,6 +247,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rakeshdda/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakeshdda/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakeshdda/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/rakeshdda/leetcode-solution/tree/master/0130-surrounded-regions) |
@@ -296,6 +298,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakeshdda/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rakeshdda/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/rakeshdda/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/rakeshdda/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rakeshdda/leetcode-solution/tree/master/0901-online-stock-span) |
@@ -470,6 +473,7 @@ Repository containing my accepted LeetCode solutions.
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/rakeshdda/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/rakeshdda/leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rakeshdda/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rakeshdda/leetcode-solution/tree/master/0417-pacific-atlantic-water-flow) |
@@ -484,6 +488,7 @@ Repository containing my accepted LeetCode solutions.
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rakeshdda/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rakeshdda/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/rakeshdda/leetcode-solution/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rakeshdda/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/rakeshdda/leetcode-solution/tree/master/0542-01-matrix) |
