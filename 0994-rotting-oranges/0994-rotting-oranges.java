@@ -2,72 +2,65 @@ class Solution {
     class Pair{
         int row;
         int col;
-    
     Pair(int row, int col){
         this.row = row;
         this.col = col;
     }
     }
     public int orangesRotting(int[][] grid) {
-    int m= grid.length;
-    int n= grid[0].length;
-    
-    Queue<Pair> queue = new LinkedList<>();
+        int rows = grid.length;
+        int cols = grid[0].length;
 
-    int freshOrange =0;
+        Queue<Pair> queue = new LinkedList<>();
 
-    for(int i =0; i< m; i++){
-        for(int j=0; j< n; j++){
+        int freshOrange =0;
 
-            if(grid[i][j] == 2){
-                queue.offer(new Pair(i, j));
-            }
-            else if(grid[i][j] == 1){
-                freshOrange++;
-            }
-
-        }
-    }
-    if(freshOrange ==0){
-        return 0;
-    }
-
-    int minute =0;
-
-    while(!queue.isEmpty()){
-        
-        int qSize = queue.size();
-
-        for(int i=0; i< qSize; i++){
-            Pair current =queue.poll();
-
-            int row = current.row;
-            int col = current.col;
-
-            int [] dr ={-1,0,1,0};
-            int [] dc ={0, 1,0, -1};
-
-            for(int j=0; j< 4; j++){
-                int newRow =row + dr[j];
-                int newCol = col + dc[j];
-
-
-                if(newRow >=0 && newRow < m && newCol >=0 && newCol < n && grid[newRow][newCol] == 1){
-                    grid[newRow][newCol] = 2;
-
-                    queue.offer(new Pair(newRow, newCol));
-
-                    freshOrange--;
+        for(int i=0; i< rows; i++){
+            for(int j=0; j< cols; j++){
+                if(grid[i][j] == 2){
+                    queue.offer(new Pair(i,j));
+                }else if(grid[i][j] == 1){
+                    freshOrange++;
                 }
             }
         }
-        minute++;
-    }
 
-    if(freshOrange != 0){
+        if(freshOrange == 0){
+            return 0;
+        }
+
+        int minute=0;
+
+        while(!queue.isEmpty()){
+            int qsize = queue.size();
+
+            for(int i=0; i< qsize; i++){
+                Pair curr = queue.poll();
+
+                int row = curr.row;
+                int col = curr.col;
+
+                int[] dr ={-1, 0, 1, 0};
+                int[] dc ={0, 1, 0, -1};
+
+                for(int k= 0; k< 4; k++){
+                    int newRow = row + dr[k];
+                    int newCol = col + dc[k];
+
+                    if(newRow>=0 && newRow < rows && newCol >=0 && newCol < cols && grid[newRow][newCol] == 1){
+                        grid[newRow][newCol] =2;
+                        queue.offer(new Pair(newRow, newCol));
+
+                        freshOrange--;
+                    }
+                }
+            }
+            minute++;
+        }
+      if(freshOrange != 0){
         return -1;
-    }
+      }
 
-    return minute -1;
+      return minute-1;
     }
 }
