@@ -1,66 +1,61 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int V =numCourses;
-
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
         for(int i=0; i< V; i++){
             adj.add(new ArrayList<>());
         }
 
-        for(int [] edge: prerequisites){
-            int u =edge[0];
-            int v =edge[1];
+        for(int [] arr : prerequisites){
+            int u=arr[0];
+            int v= arr[1];
 
             adj.get(v).add(u);
         }
 
-        int[] indi = new int[V];
+     ArrayList<Integer> list = new ArrayList<>();
+     Queue<Integer> queue = new LinkedList<>();
+      int count =0;
 
-        for (int i = 0; i < V; i++) {
-            for (int neighbour : adj.get(i)) {
-                indi[neighbour]++;
+     int[] indigree = new int[V];
+
+     for(int u=0; u< V; u++){
+        for(int neighbour : adj.get(u)){
+            indigree[neighbour]++;
+        }
+     }
+
+     for(int i=0; i< V; i++){
+        if(indigree[i] == 0){
+            queue.offer(i);
+        }
+     }
+    
+
+     while(!queue.isEmpty()){
+        int curr = queue.poll();
+
+        list.add(curr);
+        count++;
+
+        for(int node: adj.get(curr)){
+            indigree[node]--;
+
+            if(indigree[node] == 0){
+                queue.offer(node);
             }
         }
-
-        int count =0;
-        Queue<Integer> queue = new LinkedList<>();
-
-        for(int i =0; i<V; i++){
-            if(indi[i] == 0){
-                queue.offer(i);
-            }
-        }
-
-        ArrayList<Integer> list = new ArrayList<>();
-
-        while(!queue.isEmpty()){
-            int curr = queue.poll();
-
-            list.add(curr);
-            count++;
-
-            for(int neighbour: adj.get(curr)){
-                indi[neighbour]--;
-
-                if(indi[neighbour] == 0){
-                    queue.offer(neighbour);
-                }
-            }
-        }
-
-
-        if(count  !=V){
-            return new int[0];
-        }
-        
-        int [] result= new int[list.size()];
-
-        for(int i=0; i< list.size(); i++){
-            result[i] =list.get(i);
-        }
-
-       
-        return result;
+     }
+    if(count != V){
+        return new int[0];
     }
+     int [] ans = new int[V];
+    
+     for(int i=0; i< list.size(); i++){
+        ans[i] = list.get(i);
+     }
+
+     return ans;
+  }
 }
