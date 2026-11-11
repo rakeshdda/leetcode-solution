@@ -558,4 +558,8 @@ Repository containing my accepted LeetCode solutions.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rakeshdda/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rakeshdda/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
