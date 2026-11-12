@@ -1,65 +1,39 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        int n = nums.length;
+        int n= nums.length;
 
-        for (int i = n / 2 - 1; i >= 0; i--) {
-            heapify(nums, n, i);
+        for(int i=n/2-1; i>=0 ; i--){
+            heapify(i, n, nums);
+        }
+    
+        for(int i=n-1 ; i>0;  i--){
+            swap(0, i, nums);
+
+            heapify(0, i, nums);
         }
 
-        for (int i = n - 1; i > 0; i--) {
-            swap(nums, i, 0);
-
-            heapify(nums, i, 0);
-        }
         return nums;
     }
-    // public void heapify(int[] arr, int n, int i){
-    //     int largest =i;
-    //     int left = 2*i +1;
-    //     int right = 2*i +2;
+    public void heapify(int i, int n, int[] nums){
+        int largest =i;
+        int left =2*i +1;
+        int right =2*i +2;
 
-    //     if(left <n && arr[left] > arr[largest]){
-    //         largest = left;
-    //     }
-    //     if(right < n && arr[right] > arr[largest]){
-    //         largest = right;
-    //     }
-    //     if(largest != i){
-    //         swap(arr, largest, i);
+        if(left < n && nums[left] > nums[largest]){
+            largest =left;
+        }
+        if(right < n && nums[right] > nums[largest]){
+            largest =right;
+        }
+        if(largest != i){
+            swap(largest, i, nums);
 
-    //         heapify(arr, n, largest);
-    //     }
-    // }
-
-   void heapify(int[] arr, int n, int i) {
-
-        while (true) {
-
-            int largest = i;
-            int left = 2 * i + 1;
-            int right = 2 * i + 2;
-
-            if (left < n && arr[left] > arr[largest]) {
-                largest = left;
-            }
-
-            if (right < n && arr[right] > arr[largest]) {
-                largest = right;
-            }
-
-            if (largest == i) {
-                break; // Heap property restored
-            }
-
-            swap(arr, i, largest);
-
-            i = largest; // Continue heapifying from the child
+            heapify(largest, n, nums);
         }
     }
-
-    public void swap(int[] arr, int first, int second) {
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
+    public void swap(int first, int second, int[] nums){
+        int temp= nums[first];
+        nums[first] = nums[second];
+        nums[second]= temp;     
     }
 }
