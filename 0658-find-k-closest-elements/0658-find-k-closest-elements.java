@@ -1,45 +1,42 @@
 class Solution {
-    class Pair {
-        int value;
-        int key;
-
-        Pair(int key, int value) {
-            this.key = key;
-            this.value = value;
-        }
+    class Pair{
+        int dist;
+        int ele;
+    Pair(int dist, int ele){
+        this.dist = dist;
+        this.ele = ele;
     }
-
+    }
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
+        PriorityQueue<Pair> maxheap = new PriorityQueue<>((a,b) -> b.dist-a.dist);
 
-        PriorityQueue<Pair> maxheap = new PriorityQueue<>((a, b) -> b.key - a.key);
-        List<Integer> ans = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
 
-        for (int i = 0; i < k; i++) {
-
-            int no = Math.abs(arr[i] - x);
-            //inserted key, value
-            maxheap.offer(new Pair(no, arr[i]));
+        for(int i=0; i< k; i++){
+            int calculatedDistance =Math.abs(arr[i]-x);
+            maxheap.offer(new Pair(calculatedDistance, arr[i]));
         }
 
-        int j = k;
-        while (j < arr.length) {
+        for(int i=k; i< arr.length; i++){
 
-            int no1 =Math.abs(arr[j] - x);
-            
-            if ( no1 < maxheap.peek().key) {
+            int calculatedDistance =Math.abs(arr[i]-x);
+
+            if(maxheap.peek().dist > calculatedDistance){
                 maxheap.poll();
-                maxheap.offer(new Pair(no1, arr[j]));
+                maxheap.offer(new Pair(calculatedDistance, arr[i]));
             }
-            j++;
+            else if(maxheap.peek().dist == calculatedDistance){
+                if(maxheap.peek().ele > arr[i]){
+                    maxheap.poll();
+                    maxheap.offer(new Pair(calculatedDistance, arr[i]));
+                }
+            }
         }
 
-        while (!maxheap.isEmpty()) {
-            Pair p = maxheap.poll();
-            ans.add(0, p.value);
+        while(!maxheap.isEmpty()){
+            list.add(0, maxheap.poll().ele);
         }
-
-        Collections.sort(ans);
-
-        return ans;
+        Collections.sort(list);
+        return list;
     }
 }
