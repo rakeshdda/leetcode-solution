@@ -4,28 +4,28 @@ class Solution {
 
         int i=0;
         int j=0;
-        int max =0;
+        int maxCount =0;
+
 
         while(j< fruits.length){
-            map.put(fruits[j], map.getOrDefault(fruits[j], 0) + 1);
+            map.put (fruits[j], map.getOrDefault(fruits[j], 0) +1);
 
-            if(map.size() <=2){
-                max = Math.max(max, j-i+1);
-                j++;
-            }
-            else if(map.size() > 2){
-                while(map.size() > 2){
-                    map.put(fruits[i] , map.get(fruits[i]) - 1);
+          
+            if(map.size() > 2){
+                while(map.containsKey(fruits[i])){
+                    map.put(fruits[i], map.get(fruits[i])-1);
 
-                    if(map.get(fruits[i]) == 0 ){
+                    if(map.get(fruits[i]) == 0){
                         map.remove(fruits[i]);
                     }
-
-                    i++;
                 }
-                j++;
+                i++;
             }
+
+            maxCount =Math.max(maxCount, j-i+1);
+            j++;
         }
-        return max;
+
+        return maxCount;
     }
 }
